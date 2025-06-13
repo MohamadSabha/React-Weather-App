@@ -1,9 +1,9 @@
-#🌤️React Weather App
+# 🌤️React Weather App
 A responsive and interactive weather forecasting app built with React and Bootstrap.
 It displays the current weather and a 5-day forecast (in daily intervals) for any city using the OpenWeatherMap API.
 
-💻 Live Demo
-Coming Soon (or replace with your deployed Netlify/Vercel URL if available)
+# 💻 Live Demo
+https://mhd-weather-app.netlify.app/
 
 ✨ Features
 🌍 Search by city name
