@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/bb3ca5e9-24a4-44e3-b8ea-7d42b84be42d)
+
 # 🌤️React Weather App
 A responsive and interactive weather forecasting app built with React and Bootstrap.
 It displays the current weather and a 5-day forecast (in daily intervals) for any city using the OpenWeatherMap API.
@@ -5,7 +7,7 @@ It displays the current weather and a 5-day forecast (in daily intervals) for an
 # 💻 Live Demo
 https://mhd-weather-app.netlify.app/
 
-✨ Features
+# ✨ Features
 🌍 Search by city name
 
 📆 5-day daily forecast
@@ -18,47 +20,32 @@ https://mhd-weather-app.netlify.app/
 
 ❌ Error handling for invalid cities
 
-🛠️ Tech Stack
-React.js – UI and component management
+# 🛠️ Tech Stack
+- React.js – UI and component management
 
-Bootstrap 5 – Responsive layout and design
+- Bootstrap 5 – Responsive layout and design
 
-OpenWeatherMap API – Real-time weather data
+- OpenWeatherMap API – Real-time weather data
 
-🚀 Getting Started
-Prerequisites
+# 🚀 Getting Started
+- Prerequisites
 ### `Node.js`
-
-npm (comes with Node)
-
-Setup Instructions
-Clone the repository
+### `npm (comes with Node)`
+- Setup Instructions
+1- Clone the repository
 
 
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
-Install dependencies
+2- git clone https://github.com/your-username/weather-app.git
+3- cd weather-app
+4- Install dependencies
 
-npm install
-Add your API Key
-
-Open App.js and replace this line with your own API key from OpenWeatherMap:
-
-const API_KEY = "your_api_key_here";
-Run the app
-
-npm start
-The app will start on http://localhost:3000.
-
-📁 Project Structure
-weather-app/
-├── public/
-├── src/
-│   ├── App.js
-│   ├── newstyle.css
-│   └── ...
-├── package.json
-![image](https://github.com/user-attachments/assets/bb3ca5e9-24a4-44e3-b8ea-7d42b84be42d)
+5- npm install
+6- Add your API Key
+  Open App.js and replace this line with your own API key from OpenWeatherMap:
+  const API_KEY = "your_api_key_here";
+7- Run the app
+   npm start
+   The app will start on http://localhost:3000.
 
 📌 Notes
 Temperatures are converted from Fahrenheit (API default) to Celsius manually.
