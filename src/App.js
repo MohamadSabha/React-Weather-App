@@ -68,7 +68,7 @@ function App() {
   return (
     <div className="app">
       <p align="center">
-        <a href="https://github.com/your-username/your-repo-name">
+        <a href="https://github.com/MohamadSabha/React-Weather-App">
           <img
             src="https://img.shields.io/badge/GitHub-Project-blue?style=flat-square&logo=github"
             alt="GitHub repo"
