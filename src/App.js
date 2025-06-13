@@ -9,7 +9,7 @@ import "./newstyle.css";
   crossorigin="anonymous"
 />;
 function App() {
-  const API_KEY = "e8bf84e4d355e8b2491339b496d605a6";
+  const API_KEY = "your_api_key_here";
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(false);
   const [weatherData, setWeatherData] = useState(null);
