@@ -1,4 +1,4 @@
-🌤️ React Weather App
+#🌤️React Weather App
 A responsive and interactive weather forecasting app built with React and Bootstrap.
 It displays the current weather and a 5-day forecast (in daily intervals) for any city using the OpenWeatherMap API.
 
@@ -27,7 +27,7 @@ OpenWeatherMap API – Real-time weather data
 
 🚀 Getting Started
 Prerequisites
-Node.js
+### `Node.js`
 
 npm (comes with Node)
 
