@@ -31,18 +31,18 @@ https://mhd-weather-app.netlify.app/
 - Prerequisites
 ### `Node.js`
 ### `npm (comes with Node)`
-- Setup Instructions
+- Setup Instructions <br>
 1- Clone the repository <br>
 2- git clone https://github.com/your-username/weather-app.git<br>
 3- cd weather-app<br>
 4- Install dependencies<br>
 5- npm install <br>
 6- Add your API Key <br>
-- Open App.js and replace this line with your own API key from OpenWeatherMap:
-  const API_KEY = "your_api_key_here";
+    -Open App.js and replace this line with your own API key from OpenWeatherMap:
+  const API_KEY = "your_api_key_here";<br>
 7- Run the app <br>
-- npm start<br>
-- The app will start on http://localhost:3000.
+    - npm start<br>
+   - The app will start on http://localhost:3000.
 
 📌 Notes
 Temperatures are converted from Fahrenheit (API default) to Celsius manually.
