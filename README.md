@@ -38,7 +38,7 @@ https://mhd-weather-app.netlify.app/
 4- Install dependencies<br>
 5- npm install <br>
 6- Add your API Key <br>
-    -Open App.js and replace this line with your own API key from OpenWeatherMap:
+    - Open App.js and replace this line with your own API key from OpenWeatherMap:
   const API_KEY = "your_api_key_here";<br>
 7- Run the app <br>
     - npm start<br>
