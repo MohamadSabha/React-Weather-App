@@ -1,5 +1,6 @@
 ![Weather App Banner](https://github.com/user-attachments/assets/bb3ca5e9-24a4-44e3-b8ea-7d42b84be42d)
 
+
 # 🌤️ React Weather App
 
 A responsive and interactive weather forecasting application built with **React** and **Bootstrap**.  
