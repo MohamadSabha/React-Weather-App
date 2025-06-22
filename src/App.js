@@ -9,8 +9,6 @@ import "./newstyle.css";
   crossorigin="anonymous"
 />;
 function App() {
-
-  
   const API_KEY = "YOUR_API_KEY";
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(false);
